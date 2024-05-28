@@ -1,4 +1,4 @@
-###Projeto missão 24 react DevMedia
+### **Projeto missão 24 react DevMedia
 ----------------
 
 ### **Visão geral do projeto**
