@@ -1,0 +1,27 @@
+:root {
+  --white: #fff;
+  --gray-1: #F8F7FF;
+  --gray-2: #F6F6F6;
+  --gray-3: #C4C4C4;
+  --gray-4: #4a4a4a;
+  --black: #000000;
+  --black-1: #05031b;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.container {
+  max-width: 1024px;
+  width: 100%;
+  padding: 100px 20px;
+  margin: 0 auto;
+}

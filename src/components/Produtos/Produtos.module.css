@@ -1,0 +1,47 @@
+.section_produto {
+  text-align: center;
+}
+
+.section_produto h3 {
+  font-size: 24px;
+  margin-bottom: 16px;
+}
+
+.section_produto ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.section_produto .content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-block: 40px;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}
+
+.card_produto {
+  width: 400px;
+  min-height: 270px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 10px;
+  box-shadow: 2px 2px 20px -4px var(--black);
+  background-color: #f7f7f7;
+}
+
+.card_produto img {
+  max-width: 200px;
+  height: auto;
+}
+
+.card_produto p{
+  font-weight: 600;
+  font-size: 20px;
+}

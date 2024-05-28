@@ -1,0 +1,55 @@
+.container_contato{
+  background-color: var(--black-1);
+  color: var(--white);
+}
+
+.container_wrapper{
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.header h4{
+  text-align: center;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+.header p {
+  text-align: center;
+}
+
+.contato_content{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.contato_card{
+  width: 350px;
+  padding: 20px;
+  border-radius: 4px;
+}
+
+.contato_card h5 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.contato_info {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.contato_info_content{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.contato_info img{
+  width: 20px;
+  height: auto;
+}
