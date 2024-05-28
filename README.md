@@ -10,6 +10,9 @@ A proposta desse projeto é criar uma página web para uma loja de óculos em Re
 - Utilizar componentes nativos do React;
 - Organizar o código da aplicação, dividindo-o em partes menores.
 
+[Screen recording 2024-05-28 16.03.19.webm](https://github.com/alinemello29/Loja-otica-visao/assets/109696840/d656c5eb-8752-426d-9e1d-edad6cef6fc5)
+
+
 ![fig1.jpg](public/img_readme/fig1.jpg)
 
 ### **MiniMundo - Página Loja de Óculos**
